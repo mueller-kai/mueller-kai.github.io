@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nils Sturma"
+title                    : "Kai Müller"
 title_separator          : "-"
-name                     : &name "Nils Sturma"
+name                     : &name "Kai Müller"
 description              : &description "PhD Student in Statistics"
-url                      : https://nilssturma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://KaiMüller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NilsSturma/nilssturma.github.io"
+repository               : "KaiMüller/KaiMüller.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nils Sturma"
-  avatar           : "Foto_NilsSturma.jpg"
+  name             : "Kai Müller"
+  avatar           : "Foto_KaiMüller.jpg"
   bio              : "PhD Student in Mathematical Statistics, TU Munich"
   location         : "Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pLhbSv4AAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Nils-Sturma"
+  researchgate     : "https://www.researchgate.net/profile/Kai-Müller"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NilsSturma"
+  github           : "KaiMüller"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  linkedin         : nils-sturma-915517170
+  linkedin         : Kai-Müller-915517170
 
 
 # Reading Files

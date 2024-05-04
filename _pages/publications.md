@@ -37,15 +37,15 @@ with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
 **Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
 with Mathias Drton and Dennis Leung. \
 *Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024.* \
-[paper](https://doi.org/10.1093/jrsssb/qkae022), [code](https://github.com/NilsSturma/TestGGM), [slides](https://nilssturma.github.io/files/presentation_testing_U_stats.pdf)
+[paper](https://doi.org/10.1093/jrsssb/qkae022), [code](https://github.com/KaiMüller/TestGGM), [slides](https://KaiMüller.github.io/files/presentation_testing_U_stats.pdf)
 
 **Unpaired Multi-Domain Causal Representation Learning** \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
 *NeurIPS 2023, Spotlight paper.* \
-[paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf) 
+[paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/KaiMüller/multi-domain-crl), [poster](https://KaiMüller.github.io/files/multi_domain_crl.pdf) 
 
 
 **Half-Trek Criterion for Identifiability of Latent Variable Models** \
 with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
 *The Annals of Statistics, 2022, Vol. 50, No. 6, 3174–3196.* \
-[paper](https://doi.org/10.1214/22-AOS2221), [code](https://github.com/Lucaweihs/SEMID), [slides](https://nilssturma.github.io/files/LF_HTC_presentation_IMS.pdf)
+[paper](https://doi.org/10.1214/22-AOS2221), [code](https://github.com/Lucaweihs/SEMID), [slides](https://KaiMüller.github.io/files/LF_HTC_presentation_IMS.pdf)

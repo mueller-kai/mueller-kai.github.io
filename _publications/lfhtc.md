@@ -6,7 +6,7 @@ excerpt: 'To be published in Annals of Statistics.'
 date: 2022-01-12
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2201.04457'
-citation: 'Rina Foygel Barber, Mathias Drton, Nils Sturma and Luca Weihs (2022). &quot;Half-Trek Criterion for Identifiability of Latent Variable Models.&quot; <i>arXiv preprint</i>.'
+citation: 'Rina Foygel Barber, Mathias Drton, Kai Müller and Luca Weihs (2022). &quot;Half-Trek Criterion for Identifiability of Latent Variable Models.&quot; <i>arXiv preprint</i>.'
 ---
 
 ## Abstract
