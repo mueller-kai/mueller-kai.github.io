@@ -15,37 +15,28 @@ author_profile: true
 {% endfor %}
  -->
 
-# Preprints
+# Projects
+## Imageminer
+In Imageminer we are learning causal relations from artificially generated high-dimensional production line data. 
+For this we designed image generator functions that generate images based on a DAG where causal relations are known.
+We learn the causal relations between the images back from the images/ timeseries data.
+This research serves to establish concepts applicable to real-world production lines.
+Manufacturers are particularly eager to pinpoint aspects within their production data, 
+that influence whethera part is classified as OK or NOK
+<img src="images/imageminer.png" alt="imagemienr" style="width: 70%;">
 
-**Mixtures of Discrete Decomposable Graphical Models** \
-with Yulia Alexandr and Jane Ivy Coons. \
-[arXiv](https://arxiv.org/abs/2401.15950) 
+## Lineflow
 
+In our project Lineflow, we are developing a flexible and extensible Python framework for simulating production lines. 
+Our simulation can be controlled by an AI. The production line with the state of the cells and the parts as well as
+the AI's actions are visualized.
+We can use our framework to train an AI that automatically optimizes this production line towards a metric i.e. produced parts.
 
-**Singularity-agnostic Incomplete U-statistics for Testing Polynomial Constraints in Gaussian Covariance Matrices** \
-with Dennis Leung. \
-[arXiv](https://arxiv.org/abs/2401.02112) 
+<img src="images/line_flow.png" alt="Lineflow" style="width: 50%;">
 
+## Masterthesis
 
-**Algebraic Sparse Factor Analysis** \
-with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
-[arXiv](https://arxiv.org/abs/2312.14762) 
-
-
-# Publications
-
-**Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
-with Mathias Drton and Dennis Leung. \
-*Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024.* \
-[paper](https://doi.org/10.1093/jrsssb/qkae022), [code](https://github.com/NilsSturma/TestGGM), [slides](https://nilssturma.github.io/files/presentation_testing_U_stats.pdf)
-
-**Unpaired Multi-Domain Causal Representation Learning** \
-with Chandler Squires, Mathias Drton and Caroline Uhler. \
-*NeurIPS 2023, Spotlight paper.* \
-[paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf) 
-
-
-**Half-Trek Criterion for Identifiability of Latent Variable Models** \
-with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
-*The Annals of Statistics, 2022, Vol. 50, No. 6, 3174–3196.* \
-[paper](https://doi.org/10.1214/22-AOS2221), [code](https://github.com/Lucaweihs/SEMID), [slides](https://nilssturma.github.io/files/LF_HTC_presentation_IMS.pdf)
+My Masters thesis, also under the supervision of Tobias Windisch, 
+focused on the optimization of production lines at Robert Bosch GmbH. I 
+created a production line simulation using Python allowing me to simulate and 
+predict potential line jams in advance using machine learning.

@@ -14,33 +14,6 @@ In my current role, I’m deeply involved in Artificial Intelligence applied to 
 My primary focus lies in the development of deep learning techniques, with a particular passion 
 for computer vision, although I also explore a diverse range of AI methodologies.
 
-# Projects
-## Imageminer
-In Imageminer we are learning causal relations from artificially generated high-dimensional production line data. 
-For this we designed image generator functions that generate images based on a DAG where causal relations are known.
-We learn the causal relations between the images back from the images/ timeseries data.
-This research serves to establish concepts applicable to real-world production lines.
-Manufacturers are particularly eager to pinpoint aspects within their production data, 
-that influence whethera part is classified as OK or NOK
-<img src="images/imageminer.png" alt="imagemienr" style="width: 70%;">
-
-## Lineflow
-
-In our project Lineflow, we are developing a flexible and extensible Python framework for simulating production lines. 
-Our simulation can be controlled by an AI. The production line with the state of the cells and the parts as well as
-the AI's actions are visualized.
-We can use our framework to train an AI that automatically optimizes this production line towards a metric i.e. produced parts.
-
-<img src="images/line_flow.png" alt="Lineflow" style="width: 50%;">
-
-## Masterthesis
-
-My Masters thesis, also under the supervision of Tobias Windisch, 
-focused on the optimization of production lines at Robert Bosch GmbH. I 
-created a production line simulation using Python allowing me to simulate and 
-predict potential line jams in advance using machine learning.
-
-
 ## Interests
 
 - Image Processing
