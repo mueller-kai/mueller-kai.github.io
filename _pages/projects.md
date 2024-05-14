@@ -1,23 +1,11 @@
 ---
 layout: archive
-permalink: /publications/
+permalink: /projects/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
-
-# Projects
-## Imageminer
-In Imageminer we are learning causal relations from artificially generated high-dimensional production line data. 
+## Image-Miner
+In Image-Miner we are learning causal relations from artificially generated high-dimensional production line data. 
 For this we designed image generator functions that generate images based on a DAG where causal relations are known.
 We learn the causal relations between the images back from the images/ timeseries data.
 This research serves to establish concepts applicable to real-world production lines.

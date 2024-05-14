@@ -27,7 +27,7 @@ Generally, I enjoy exploring and implementing the possibilities of how and where
 weighing both the advantages and disadvantages.
 
 ## Education
-- MSc in Human-Computer Interactio, Reutlingen, Germany
+- MSc in Human-Computer Interaction, Reutlingen, Germany
 - BSc in Special Education, Heidelberg, Germany
 
 ## Medium
