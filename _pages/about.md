@@ -19,16 +19,11 @@ for computer vision, although I also explore a diverse range of AI methodologies
 - Computer Vision
 - AI Applications in Production Processes
 - Human-Computer Interaction
-- I believe that the transformer architecture is the most relevant for the craft. I have startet to delve into it and will continue to do so in the future.
 
 Generally, I enjoy exploring and implementing the possibilities of how and where 
-AI can be utilized to optimize processes, while also maintaining 
-a focus on real-world benefits, keeping human interaction in mind and
-weighing both the advantages and disadvantages.
+AI can be utilized to optimize processes. 
+I prefer to focus on real-world benefits rather than using AI for its own sake.
 
 ## Education
 - M.Sc. in Human-Computer Interaction, Reutlingen, Germany
 - B.Sc. in Special Education, Heidelberg, Germany
-
-## Medium
-  In my freetime I wrote Medium articles regarding data science topics and for self documentation. You can find these <a href="https://medium.com/@mailmuellerkai">here</a>.
