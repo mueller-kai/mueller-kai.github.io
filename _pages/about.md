@@ -13,14 +13,12 @@ vision at Hochschule Kempten. I work under the guidance and mentorship of <a hre
 In my current role, I’m deeply involved in Artificial Intelligence applied to production systems. 
 My primary focus lies in the development of deep learning techniques, with a particular passion 
 for computer vision, although I also explore a diverse range of AI methodologies. 
-I prefer to focus on real-world benefits rather than using AI for its own sake.
 
 ## Interests
 
 - Computer Vision
 - AI Applications in Production Processes
 - Human-Computer Interaction
-- <a href="https://medium.com/@mailmuellerkai">Medium</a> page.
 
 ## Education
 - M.Sc. in Human-Computer Interaction, Reutlingen, Germany
