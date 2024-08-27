@@ -32,3 +32,6 @@ predict potential line jams in advance using machine learning.
 
 ## Teaching
 Furthermore, I am actively involved in academia, where I have the privilege of supervising students in a lecture dedicated to the use of AI in production systems.
+
+## Bantolo
+I currently develop a platform called [Bantolo](www.bantolo.com) where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation APIs from Open AI.
