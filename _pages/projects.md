@@ -53,4 +53,4 @@ The projects mentioned above are only a selection among several university proje
 
 # Personal Projects
 ### Bantolo
-When I find the time I develop a platform called [Bantolo](https://www.bantolo.com) where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models. 
+When I find the time I develop a platform called [Bantolo](www.bantolo.com) where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models. 
