@@ -34,4 +34,8 @@ predict potential line jams in advance using machine learning.
 Furthermore, I am actively involved in academia, where I have the privilege of supervising students in a lecture dedicated to the use of AI in production systems.
 
 ## Bantolo
-When I find the time I develop a platform called [Bantolo](www.bantolo.com) where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models.
+When I find the time I develop a platform called [Bantolo](https://www.bantolo.com) where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models.
+
+
+## University Project
+<video id="video-interactive-systems" loop="" muted="" class="img-fluid" alt="Project teaser for the Automotive UI 2030 project" style="border-radius:15px" width="100%" height="auto" controls=""><source src="../media/interactive-systems-presentation-muted-compressed-4MB.mp4" type="video/mp4">Your browser does not support the video tag.</video>
