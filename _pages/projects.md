@@ -48,6 +48,9 @@ In this project, our team consisting of three students created a concept of an a
 My personal focus of this project was researching on the adaption of automotive UIs to the Chinese market. Based on that research, I anticipated novel interaction techniques and UI functions for the Chinese-market in year 2030.
 <video id="video-interactive-systems" loop="" muted="" class="img-fluid" alt="Project teaser for the Automotive UI 2030 project" style="border-radius:15px" width="60%" height="auto" controls=""><source src="../media/interactive-systems-presentation-muted-compressed-4MB.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+### Further University Projects
+The projects mentioned above are only a selection among several university projects. Other projects focused on face detection, face recognition and emotion analysis or the detection and quantification of destroyed buildings from sattelite imagery.
+
 # Personal Projects
 ### Bantolo
-When I find the time I develop a platform called [Bantolo](https://www.bantolo.com) where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models.
+When I find the time I develop a platform called [Bantolo](https://www.bantolo.com) where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models. 
