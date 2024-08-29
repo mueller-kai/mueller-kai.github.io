@@ -3,6 +3,7 @@ layout: archive
 permalink: /projects/
 author_profile: true
 ---
+# Professional Projects
 
 ## Image-Miner
 In Image-Miner we are learning causal relations from artificially generated high-dimensional production line data. 
