@@ -19,7 +19,7 @@ In our project Lineflow, we are developing a flexible and extensible Python fram
 Our simulation can be controlled by an AI. The production line with the state of the cells and the parts as well as
 the AI's actions are visualized.
 We can use our framework to train an AI that automatically optimizes this production line towards a metric i.e. produced parts. 
-The framework will be opensourced on my <a href="https://github.com/mueller-kai">Git Hub</a> soon.
+The framework will be opensourced on my <a href="https://github.com/mueller-kai">GitHub</a> soon.
 
 <img src="../images/line_flow.png" alt="Lineflow" style="width: 50%;">
 
@@ -53,4 +53,4 @@ The projects mentioned above are only a selection among several university proje
 
 # Personal Projects
 ### Bantolo
-When I find the time I develop a platform called <a href="https://batnolo.com">Bantolo</a> where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models. 
+When I find the time I develop a platform called <a href="https://bantolo.com">Bantolo</a> where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models. 
