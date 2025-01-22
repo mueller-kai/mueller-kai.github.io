@@ -49,7 +49,3 @@ My personal focus of this project was researching on the adaption of automotive 
 
 ### Further University Projects
 The projects mentioned above are only a selection among several university projects. Other projects focused on face detection, face recognition and emotion analysis or the detection and quantification of destroyed buildings from sattelite imagery.
-
-# Personal Projects
-### Bantolo
-When I find the time I develop a platform called <a href="https://bantolo.com">Bantolo</a> where children who otherwise do not find interest in writing can interactively generate their own book using LLMs and Image Generation models. 
