@@ -10,7 +10,7 @@ author_profile: true
 In our project Lineflow, we are developing a flexible and extensible Python framework for simulating production lines. 
 Our simulation can be controlled by an AI. The production line with the state of the cells and the parts as well as
 We use our framework to train an AI (Agent) using Reeinforcement Learning, which automatically optimizes this production line towards a metric i.e. produced parts. 
-The framework will be opensourced on my <a href="https://github.com/mueller-kai">GitHub</a> soon.
+The framework is opensourced on the Universities <a href="https://github.com/hs-kempten/lineflow">GitHub account</a>.
 
 <img src="../images/line_flow.png" alt="Lineflow" style="width: 50%;">
 
